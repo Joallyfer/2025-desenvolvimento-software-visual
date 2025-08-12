@@ -1,0 +1,3 @@
+Dentro do Git Bash 
+git clone e url para clonar o arquivo
+Ou git clone+url + espaço e nome de uma pasta salva o arquivo como o nome que você colocar
