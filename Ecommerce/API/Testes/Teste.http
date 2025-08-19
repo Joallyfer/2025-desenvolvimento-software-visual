@@ -1,0 +1,8 @@
+###Raiz da Aplicação
+get http://localhost:5261
+### Testar a segunda Funcionalidade
+
+get http://localhost:5261/endereco
+
+### Testar a funcionalidade com post
+post http://localhost:5261/endereco
