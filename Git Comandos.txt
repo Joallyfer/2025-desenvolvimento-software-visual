@@ -1,0 +1,12 @@
+Dentro do Git Bash 
+git clone e url para clonar o arquivo
+Ou git clone+url + espaço e nome de uma pasta salva o arquivo como o nome que você colocar
+
+git status - ver se tem pastas não salvas
+git add. - Ele olha para todas pastas do repositório
+git commit -m "Mensagem que quer enviar sobre o envio"  (salva as informações editadas)
+git push ai sim sobe o repositório em nuvem
+
+Dentro do Git Bash 
+git clone e url para clonar o arquivo
+Ou git clone+url + espaço e nome de uma pasta salva o arquivo como o nome que você colocar
